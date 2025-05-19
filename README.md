@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 --------------------------------------
 https://x.com/tlgbuh71061?s=21
 --------------------------------------
-📸Instagram
+📸Instagram:
 --------------------------------------
 https://www.instagram.com/tolgabuhur?igsh=N3FqYWhyMWJsMzhy&utm_source=qr
 --------------------------------------
