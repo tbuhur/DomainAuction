@@ -11,7 +11,7 @@ Andromeda Protocol
 
 ![image](https://github.com/user-attachments/assets/d3679263-a97e-4752-8645-2638c3f98ece)
 
-👨‍💻Domain Auction — The Future of Digital Domain Ownership💹
+👨‍💻Use Case:Domain Auction — The Future of Digital Domain Ownership💹
 ---------------------------------------
 DNFT (Domain NFT) is an innovative auction platform that revolutionizes the ownership, trading, and monetization of internet domain names as unique digital assets. Powered by blockchain technology and seamlessly integrated with the advanced security and scalability of the Andromeda Protocol, Domain Auction transforms traditional domain management into a transparent, secure, and dynamic marketplace.
 ---------------------------------------
