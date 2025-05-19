@@ -1,11 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+✖️Twitter(X)
+https://x.com/tlgbuh71061?s=21
+📸Instagram
+https://www.instagram.com/tolgabuhur?igsh=N3FqYWhyMWJsMzhy&utm_source=qr
+Andromeda Protocol
+![image](https://github.com/user-attachments/assets/d3679263-a97e-4752-8645-2638c3f98ece)
 
-Domain Auction — The Future of Digital Domain Ownership
+👨‍💻Domain Auction — The Future of Digital Domain Ownership💹
 ---------------------------------------
 DNFT (Domain NFT) is an innovative auction platform that revolutionizes the ownership, trading, and monetization of internet domain names as unique digital assets. Powered by blockchain technology and seamlessly integrated with the advanced security and scalability of the Andromeda Protocol, Domain Auction transforms traditional domain management into a transparent, secure, and dynamic marketplace.
 ---------------------------------------
 
-Executive Summary
+✅Executive Summary
 
 In the rapidly evolving digital landscape, domains are more than just addresses; they represent brands, identities, and valuable intellectual properties. Domain Auction leverages the Andromeda Protocol’s robust infrastructure to tokenize these assets, enabling individuals and businesses worldwide to participate in transparent, fair auctions and seamless ownership transfers.
 
@@ -17,7 +23,7 @@ By minting domains as exclusive DNFTs, the platform offers:
 
 ---------------------------------------
 
-Platform Features
+🎯Platform Features
 
 DNFT Minting & Auction
 
@@ -37,7 +43,7 @@ Once the auction concludes, ownership rights are instantly and securely transfer
 
 ---------------------------------------
 
-Technical Architecture
+🏛️Technical Architecture
 	•	Frontend: Built with Next.js for a responsive, intuitive user experience.
 	•	Blockchain Layer: Powered by the Andromeda Protocol, ensuring secure, scalable, and transparent NFT minting and auction operations.
 	•	Smart Contracts: Developed in Solidity, with logic and asset management fully integrated into the Andromeda Protocol ecosystem.
@@ -45,7 +51,7 @@ Technical Architecture
 
 ---------------------------------------
 
-Getting Started
+🎬Getting Started
 	•	Clone the repository.
 	•	Install dependencies.
 	•	Configure environment variables.
