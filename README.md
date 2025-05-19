@@ -1,9 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-✖️Twitter(X)
-
+✖️Twitter(X):
+--------------------------------------
 https://x.com/tlgbuh71061?s=21
 📸Instagram
-
+--------------------------------------
 https://www.instagram.com/tolgabuhur?igsh=N3FqYWhyMWJsMzhy&utm_source=qr
 Andromeda Protocol
 
